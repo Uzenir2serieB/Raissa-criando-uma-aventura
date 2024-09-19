@@ -1,5 +1,5 @@
 body{
-background-color: pink;
+background-color: rgb(105, 238, 243);
 color: black;
 font-family: "SUSE", sans-serif;
 display: flex;
@@ -11,8 +11,8 @@ margin: 0;
 }
 
 button {
-    background-color: darkmagenta;
-    color: white;
+    background-color: rgb(182, 179, 189);
+    color: rgb(83, 191, 241);
     font-family:"SUSE", sans-serif;
     
 }
