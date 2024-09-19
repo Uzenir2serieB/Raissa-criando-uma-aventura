@@ -8,11 +8,20 @@ align-items: center;
 height: 700px;
 margin: 0;
 
-}
 
 button {
     background-color: rgb(182, 179, 189);
     color: rgb(83, 191, 241);
     font-family:"SUSE", sans-serif;
     
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+display: block;
+}
+
 }
